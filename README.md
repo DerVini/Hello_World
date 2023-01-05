@@ -8,4 +8,5 @@ As you can see in the following screenshot, i implemented this in Python.
 
 Installation:
 In a command window navigate to a chosen path and type
+
   git clone https://github.com/DerVini/Hello_World.git [FOLDER-NAME]
